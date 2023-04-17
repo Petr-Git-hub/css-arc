@@ -143,16 +143,6 @@ $(document).ready(() => {
 	});
 
 	//аккардеон
-	// ! function(i) {
-	// 	var bars, info;
-	// 	i('.description__block').on('click', function() {
-	// 		bars = i(this).parents('.description'), info = bars.find('.description__info'),
-	// 		bars.hasClass('-active') ? (bars.removeClass('-active'),
-	// 		info.slideUp()) : (bars.addClass('-active'), info.stop(!0, !0).slideDown( 500, 'linear', function(){
-	// 		}),
-	// 		bars.siblings('.-active').removeClass('-active').children('.description__info').stop(!0, !0).slideUp())
-	// 	})
-	// }(jQuery);
 
 	var accBody = $(".description__info");
 	var acc = $(".description");
