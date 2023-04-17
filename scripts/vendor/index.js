@@ -1,5 +1,6 @@
 $(document).ready(() => {
 	
+	
 	//read more
 	// $('.reviews-item__text ').readmore({
 	// 	speed: 75,
