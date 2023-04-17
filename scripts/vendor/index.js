@@ -1,7 +1,7 @@
 $(document).ready(() => {
 	
 	
-	//read more
+	//read 
 	// $('.reviews-item__text ').readmore({
 	// 	speed: 75,
 	// 	moreLink: '<a class="reviews-item__link link" href="#"> <span>читать полностью</span><div class="link__btn"><div class="_icon-arrow-link"></div></div></a>',
